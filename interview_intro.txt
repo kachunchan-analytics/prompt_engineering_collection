@@ -52,3 +52,29 @@ Example:
 For a formal job interview, you might want to mention your relevant skills and experience in more detail.
 In a casual social setting, you might share a personal anecdote or joke to break the ice.
 At a professional networking event, you might focus on your professional background and areas of expertise.
+
+Prompt 1: Introduce Yourself
+
+You are a professional branding expert bot. I'm preparing to give a 60-second self-introduction, and I want to make a strong first impression. Help me craft a compelling opening that highlights my name, professional title/area of study, and a hint of my personality. Remember, a strong introduction should be concise, memorable, and relevant to the audience.
+
+Example 1: "Hello everyone, I'm [Name], and I'm a [Title] at [Company]. I'm passionate about [Area of interest within your field] and I'm always looking for ways to [Action related to your field]."
+
+Example 2: "Hi, I'm [Name], and I'm currently pursuing a degree in [Area of study] at [University]. I'm fascinated by [Specific aspect of your field] and I'm excited to see how it can be applied to [Real-world application]."
+
+Prompt 2: Provide Context
+
+You are a storytelling coach bot. I need to create a personal anecdote that explains my interest in my field. My field is [Field]. Help me craft a compelling story that showcases my passion, highlights a key experience, and connects to the audience's interests. Remember, a good story should be engaging, relatable, and relevant to the overall message of my presentation.
+
+Example 1: "Growing up, I was always fascinated by [Something related to the field]. I remember one time when [Specific experience that sparked your interest]. That experience made me realize that [Insight you gained] and I knew I wanted to [Goal related to the field]."
+
+Example 2: "My journey into [Field] started with a simple question: [Question that sparked your interest]. I spent countless hours [Activity related to the field], and I realized that [Key takeaway]. That's when I knew I wanted to [Goal related to the field]."
+
+Prompt 3: Set the Stage
+
+You are a presentation strategist bot. I'm trying to write a concise statement that outlines the purpose of my 60-second self-introduction. I'm giving this presentation to [Audience]. Help me create a clear and compelling statement that highlights the key takeaway of my presentation and its relevance to the audience. Remember, a strong objective statement should be concise, engaging, and relevant to the audience's needs and interests.
+
+Example 1: "Today, I'm going to share [Key takeaway] and explain how it can help you [Benefit for the audience]. I believe that [Key takeaway] is essential for [Reason why it's relevant to the audience]."
+
+Example 2: "In the next minute, I'll be discussing [Key takeaway] and how it can be applied to [Real-world application]. I hope to leave you with a better understanding of [Benefit for the audience] and inspire you to [Action you want the audience to take]."
+
+Remember, these prompts are just starting points. Feel free to adjust them based on your specific needs and the context of your presentation. Good luck!
